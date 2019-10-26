@@ -1,0 +1,13 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\mobile projects\pomodoro assistant\sources_windows\windows phone_8.1\pomodoroassistant_8.1\pomodoroassistant\obj\arm\release\intermediatexaml\pomodoroassistant.exe" HashGuid="6f86203b-5ee5-f640-e3c0-c8c55a8a2bfd" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.admediator81\1.0\references\commonconfiguration\neutral\microsoft.admediator.core.dll" HashGuid="fec80444-027d-4507-d948-53e28c9c373e" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.admediator81\1.0\references\commonconfiguration\neutral\microsoft.admediator.windowsphone81.dll" HashGuid="a5edabf2-e23a-377a-0837-bc9b566795a0" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.admediator81\1.0\references\commonconfiguration\arm\microsoft.admediator.windowsphone81.microsoftadvertising.dll" HashGuid="9d994ac0-3aa2-22c1-4cd0-2fb9201f1e54" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.admediator81\1.0\references\commonconfiguration\neutral\microsoft.advertising.winmd" HashGuid="0e298d0e-35bc-69c1-ce53-3ec79c031e52" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="d:\mobile projects\pomodoro assistant\sources_windows\windows universal\pomodoroassistant\packages\adduplexwinphone81.9.0.0.8\lib\portable-win81+wpa81\adduplex.universal.controls.winphone.xaml.winmd" HashGuid="5ffab492-1353-e13a-20a2-6e009d65b10e" />
+    <ReferenceAssembly PathName="d:\mobile projects\pomodoro assistant\sources_windows\windows universal\pomodoroassistant\packages\adduplexwinphone81.9.0.0.8\lib\portable-win81+wpa81\adduplex.universal.winphone.winrt.winmd" HashGuid="39dce1c1-e871-0831-e41b-0efe9ea451a4" />
+    <ReferenceAssembly PathName="d:\mobile projects\pomodoro assistant\sources_windows\windows universal\pomodoroassistant\pomodorowindowslibrary\bin\release\atrx.mobile.windows.pomodoro.dll" HashGuid="6cd87090-bdd8-e751-a489-bd36ee9e26a1" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

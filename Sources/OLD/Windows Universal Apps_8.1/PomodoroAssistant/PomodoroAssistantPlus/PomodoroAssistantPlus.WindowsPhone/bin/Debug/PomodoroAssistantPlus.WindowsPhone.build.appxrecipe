@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ATRX_LAB</Machine>
+    <WindowsUser>Damian</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>0f4c426c-e939-45e9-b190-ee0ec825135f</PackageIdentityName>
+    <IntermediateOutputPath>H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\bin\Debug\PomodoroAssistantPlus.WindowsPhone.exe">
+      <PackagePath>PomodoroAssistantPlus.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Shared\Images\addDate_32.png">
+      <PackagePath>Images\addDate_32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Shared\Images\deleteDate_32.png">
+      <PackagePath>Images\deleteDate_32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Shared\Images\editDate_32.png">
+      <PackagePath>Images\editDate_32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Shared\Images\finishDate_32.png">
+      <PackagePath>Images\finishDate_32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Shared\Images\icon_48.png">
+      <PackagePath>Images\icon_48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Shared\Images\totalCycles_32.png">
+      <PackagePath>Images\totalCycles_32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Shared\Images\totalTasks_32.png">
+      <PackagePath>Images\totalTasks_32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Shared\Images\totalTime_32.png">
+      <PackagePath>Images\totalTime_32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\bin\Debug\Pages\AboutPage.xbf">
+      <PackagePath>Pages\AboutPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\bin\Debug\Pages\AddCategoryPage.xbf">
+      <PackagePath>Pages\AddCategoryPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\bin\Debug\Pages\AddTaskPage.xbf">
+      <PackagePath>Pages\AddTaskPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\bin\Debug\Pages\PomodoroPage.xbf">
+      <PackagePath>Pages\PomodoroPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\bin\Debug\Pages\SettingsPage.xbf">
+      <PackagePath>Pages\SettingsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\bin\Debug\PomodoroAssistantPlus.WindowsPhone.xr.xml">
+      <PackagePath>PomodoroAssistantPlus.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\PROJECTS\APPS\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

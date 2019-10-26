@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-zh-hant"
+"ResourceDimensions"		"language-zh-tw"
+"ResourceDimensions"		"language-zh-hk"
+
+[Files]
+"D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\ARM\Release\split.language-zh-hant.pri"			"resources.pri"

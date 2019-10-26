@@ -1,0 +1,2 @@
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\OLD\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\PomodoroAssistant_8.1.csproj;x86
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\OLD\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\PomodoroWindowsLibrary.csproj;neutral

@@ -1,0 +1,25 @@
+﻿<Application
+    x:Class="PomodoroAssistant.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PomodoroAssistant"
+    
+    xmlns:converters="using:PomodoroAssistant.Converters"
+    xmlns:pomodoro_vm="using:PomodoroAssistant.ViewModels">
+
+    <Application.Resources>
+        <!-- DataContext -->
+        <pomodoro_vm:PomodoroViewModel x:Key="PomodoroVM"/>
+
+        <!-- Konwertery -->
+        <converters:StartButtonTimerStateToBoolConverter x:Key="StartButtonConverter"/>
+        <converters:PauseButtonTimerStateToBoolConverter x:Key="PauseButtonConverter"/>
+        <converters:StopButtonTimerStateToBoolConverter x:Key="StopButonConverter"/>
+        <converters:CurrentTimeToMinutesConverter x:Key="CurrentTimeToMinutesConverter"/>
+        <converters:CurrentTimeToSecondsConverter x:Key="CurrentTimeToSecondsConverter"/>
+        <converters:CurrentPomodoroStateToColor x:Key="CurrentStateToColor"/>
+        <converters:CurrentTimerStateToVisibilityConverter x:Key="CurrentTimerStateToVisibility"/>
+        <converters:CurrentTimerStateToBoolConverter x:Key="CurrentTimerStateToBool"/>
+        
+    </Application.Resources>
+</Application>

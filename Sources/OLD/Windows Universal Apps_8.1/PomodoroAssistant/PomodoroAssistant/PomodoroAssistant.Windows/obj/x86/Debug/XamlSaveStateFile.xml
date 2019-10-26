@@ -1,0 +1,7 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\projekty\aplikacje\pomodoro assistant\sources\windows universal apps_8.1\pomodoroassistant\pomodoroassistant\pomodoroassistant.windows\obj\x86\debug\intermediatexaml\pomodoroassistant.windows.exe" HashGuid="380d9198-9ad9-bf19-321a-c534bf06ebe1" />
+    <ReferenceAssembly PathName="d:\mobile projects\pomodoro assistant\windows\sources\old\windows universal apps_8.1\pomodoroassistant\packages\adduplexwin81.9.0.0.5\lib\portable-win81+wpa81\adduplex.universal.controls.win.xaml.winmd" HashGuid="7b80d026-7796-a510-dbf0-079d021e1b8d" />
+    <ReferenceAssembly PathName="d:\mobile projects\pomodoro assistant\windows\sources\old\windows universal apps_8.1\pomodoroassistant\packages\adduplexwin81.9.0.0.5\lib\portable-win81+wpa81\adduplex.universal.win.winrt.winmd" HashGuid="cc68de6d-67bc-e414-eaaf-6e9539740855" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

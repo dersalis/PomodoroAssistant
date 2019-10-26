@@ -1,0 +1,136 @@
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\App.xbf
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\MainPage.xbf
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\PomodoroAssistant.xr.xml
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\PomodoroAssistant.exe
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\PomodoroAssistant.pdb
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\resources.pri
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\AppxManifest.xml
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\PomodoroAssistant_8.1.build.appxrecipe
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Microsoft.AdMediator.Core.dll
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Microsoft.AdMediator.WindowsPhone81.dll
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Microsoft.AdMediator.WindowsPhone81.MicrosoftAdvertising.dll
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Microsoft.Advertising.winmd
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Microsoft.Advertising.xml
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\App.g.i.cs
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\App.g.cs
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\MainPage.g.i.cs
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\MainPage.g.cs
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\App.xaml
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\App.xbf
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\XamlSaveStateFile.xml
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\MainPage.xaml
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\MainPage.xbf
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\PomodoroAssistant.exe
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\PomodoroAssistant.pdb
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\PomodoroAssistant_8.1.csproj.GenerateResource.Cache
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\priconfig.xml
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\priconfig.xml.intermediate
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\layout.resfiles
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\layout.resfiles.intermediate
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\resources.resfiles
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\resources.resfiles.intermediate
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\pri.resfiles
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\pri.resfiles.intermediate
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\qualifiers.txt
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\qualifiers.txt.intermediate
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\ProjectArchitectures.txt
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Pages\BuyPage.xbf
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Pages\PomodoroPage.xbf
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Pages\SettingsPage.xbf
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\BuyPage.g.i.cs
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\BuyPage.g.cs
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\PomodoroPage.g.i.cs
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\PomodoroPage.g.cs
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\SettingsPage.g.i.cs
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\SettingsPage.g.cs
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\BuyPage.xaml
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\PomodoroPage.xaml
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\SettingsPage.xaml
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\BuyPage.xbf
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\PomodoroPage.xbf
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\SettingsPage.xbf
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Pages\AboutPage.xbf
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\AboutPage.g.i.cs
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\AboutPage.g.cs
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\AboutPage.xaml
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\AboutPage.xbf
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\App.xbf
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\MainPage.xbf
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Pages\AboutPage.xbf
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Pages\BuyPage.xbf
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Pages\PomodoroPage.xbf
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Pages\SettingsPage.xbf
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\PomodoroAssistant.xr.xml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\PomodoroAssistant.exe
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\PomodoroAssistant.pdb
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\resources.pri
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\AppxManifest.xml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\PomodoroAssistant_8.1.build.appxrecipe
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Microsoft.AdMediator.Core.dll
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Microsoft.AdMediator.WindowsPhone81.dll
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Microsoft.AdMediator.WindowsPhone81.MicrosoftAdvertising.dll
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Microsoft.Advertising.winmd
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Microsoft.Advertising.xml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\App.g.i.cs
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\App.g.cs
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\MainPage.g.i.cs
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\MainPage.g.cs
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\AboutPage.g.i.cs
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\AboutPage.g.cs
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\BuyPage.g.i.cs
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\BuyPage.g.cs
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\PomodoroPage.g.i.cs
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\PomodoroPage.g.cs
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\SettingsPage.g.i.cs
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\SettingsPage.g.cs
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\App.xaml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\MainPage.xaml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\AboutPage.xaml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\BuyPage.xaml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\SettingsPage.xaml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\App.xbf
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\MainPage.xbf
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\AboutPage.xbf
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\BuyPage.xbf
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\SettingsPage.xbf
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\XamlSaveStateFile.xml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\PomodoroPage.xaml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Pages\PomodoroPage.xbf
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\PomodoroAssistant.exe
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\PomodoroAssistant.pdb
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\PomodoroAssistant_8.1.csproj.GenerateResource.Cache
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\priconfig.xml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\priconfig.xml.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\layout.resfiles
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\layout.resfiles.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\resources.resfiles
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\resources.resfiles.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\pri.resfiles
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\pri.resfiles.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\qualifiers.txt
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\qualifiers.txt.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\ProjectArchitectures.txt
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\PomodoroAssistant_8.1.csprojResolveAssemblyReference.cache
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Atrx.Mobile.Windows.Pomodoro.dll
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Atrx.Mobile.Windows.Pomodoro.pdb
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Atrx.Mobile.Windows.Pomodoro.pri
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Styles\AboutPageStyle.xbf
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Styles\AboutPageStyle.g.i.cs
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Styles\AboutPageStyle.g.cs
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Styles\AboutPageStyle.xaml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\Styles\PomodoroStyle.xbf
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Styles\PomodoroStyle.g.i.cs
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Styles\PomodoroStyle.g.cs
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Styles\PomodoroStyle.xaml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Styles\AboutPageStyle.xbf
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\Styles\PomodoroStyle.xbf
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.winmd
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\AdDuplex.Universal.WinPhone.WinRT.winmd
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.pri
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\x86\Debug\AdDuplex.Universal.WinPhone.WinRT.pri
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\AdDuplex.Universal.Controls.WinPhone.XAML.pri.xml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\x86\Debug\AdDuplex.Universal.WinPhone.WinRT.pri.xml

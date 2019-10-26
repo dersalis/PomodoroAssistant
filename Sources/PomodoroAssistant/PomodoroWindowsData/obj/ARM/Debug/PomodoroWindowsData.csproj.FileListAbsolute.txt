@@ -1,0 +1,16 @@
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsData\bin\ARM\Debug\PomodoroWindowsData.dll
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsData\bin\ARM\Debug\PomodoroWindowsData.pdb
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsData\bin\ARM\Debug\PomodoroWindowsData.pri
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsData\obj\ARM\Debug\PomodoroWindowsData.dll
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsData\obj\ARM\Debug\PomodoroWindowsData.pdb
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsData\obj\ARM\Debug\priconfig.xml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsData\obj\ARM\Debug\priconfig.xml.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsData\obj\ARM\Debug\layout.resfiles
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsData\obj\ARM\Debug\layout.resfiles.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsData\obj\ARM\Debug\resources.resfiles
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsData\obj\ARM\Debug\resources.resfiles.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsData\obj\ARM\Debug\pri.resfiles
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsData\obj\ARM\Debug\pri.resfiles.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsData\obj\ARM\Debug\qualifiers.txt
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsData\obj\ARM\Debug\qualifiers.txt.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsData\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt

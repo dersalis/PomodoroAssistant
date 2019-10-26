@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ATRX-CENTER</Machine>
+    <WindowsUser>damian</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>cbee61b1-bfaa-4a9d-9a93-490878fd62b8</PackageIdentityName>
+    <IntermediateOutputPath>D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\obj\x86\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>DDBE2013070BA588D46C009748931B224307F83445B1E8E8B473DB695AC8EAC6</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>cbee61b1-bfaa-4a9d-9a93-490878fd62b8_4.0.0.0_x86__ent4sjjt003d6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>cbee61b1-bfaa-4a9d-9a93-490878fd62b8_ent4sjjt003d6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>cbee61b1-bfaa-4a9d-9a93-490878fd62b8</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=damia</RegisteredPackagePublisher>
+    <RegisteredVersion>4.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-03-10T20:21:50.141</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\ApplicationInsights.config">
+      <PackagePath>ApplicationInsights.config</PackagePath>
+      <Modified>2016-01-01T13:20:20.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-30T19:57:50.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-04T21:49:51.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-30T20:08:09.789</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-30T20:00:22.116</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-30T20:04:33.359</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-30T20:22:31.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\ClrCompression.dll">
+      <PackagePath>ClrCompression.dll</PackagePath>
+      <Modified>2015-07-30T04:33:04.071</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\addDate_32.png">
+      <PackagePath>Images\addDate_32.png</PackagePath>
+      <Modified>2016-01-11T10:08:39.250</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\addTask_48.png">
+      <PackagePath>Images\addTask_48.png</PackagePath>
+      <Modified>2016-01-11T11:43:55.279</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\arrow_down_24.png">
+      <PackagePath>Images\arrow_down_24.png</PackagePath>
+      <Modified>2016-01-04T19:23:47.943</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\check_48.png">
+      <PackagePath>Images\check_48.png</PackagePath>
+      <Modified>2016-01-04T19:23:47.944</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\clock_32.png">
+      <PackagePath>Images\clock_32.png</PackagePath>
+      <Modified>2016-01-04T19:23:47.945</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\deleteDate_32.png">
+      <PackagePath>Images\deleteDate_32.png</PackagePath>
+      <Modified>2016-01-11T10:08:39.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\editDate_32.png">
+      <PackagePath>Images\editDate_32.png</PackagePath>
+      <Modified>2016-01-11T10:08:39.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\facebook_48.png">
+      <PackagePath>Images\facebook_48.png</PackagePath>
+      <Modified>2016-01-04T19:23:47.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\finishDate_32.png">
+      <PackagePath>Images\finishDate_32.png</PackagePath>
+      <Modified>2016-01-11T10:08:39.247</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\icon_128.png">
+      <PackagePath>Images\icon_128.png</PackagePath>
+      <Modified>2016-01-04T19:23:47.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\icon_16.png">
+      <PackagePath>Images\icon_16.png</PackagePath>
+      <Modified>2016-01-04T19:23:47.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\icon_24.png">
+      <PackagePath>Images\icon_24.png</PackagePath>
+      <Modified>2016-01-04T19:23:47.950</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\icon_30.png">
+      <PackagePath>Images\icon_30.png</PackagePath>
+      <Modified>2016-01-04T19:23:47.951</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\icon_48.png">
+      <PackagePath>Images\icon_48.png</PackagePath>
+      <Modified>2016-01-04T19:23:49.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\icon_64.png">
+      <PackagePath>Images\icon_64.png</PackagePath>
+      <Modified>2016-01-04T19:23:49.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\mail_48.png">
+      <PackagePath>Images\mail_48.png</PackagePath>
+      <Modified>2016-01-04T19:23:49.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\sort_48.png">
+      <PackagePath>Images\sort_48.png</PackagePath>
+      <Modified>2016-01-11T11:30:17.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\star_48.png">
+      <PackagePath>Images\star_48.png</PackagePath>
+      <Modified>2016-01-04T19:23:49.686</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\task_48.png">
+      <PackagePath>Images\task_48.png</PackagePath>
+      <Modified>2016-01-10T22:14:47.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\tomato_32.png">
+      <PackagePath>Images\tomato_32.png</PackagePath>
+      <Modified>2016-01-04T19:23:49.689</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\totalCycles_32.png">
+      <PackagePath>Images\totalCycles_32.png</PackagePath>
+      <Modified>2016-01-11T10:27:59.893</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\totalTasks_32.png">
+      <PackagePath>Images\totalTasks_32.png</PackagePath>
+      <Modified>2016-01-11T10:27:59.894</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\totalTime_32.png">
+      <PackagePath>Images\totalTime_32.png</PackagePath>
+      <Modified>2016-01-11T10:27:59.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\twitter_48.png">
+      <PackagePath>Images\twitter_48.png</PackagePath>
+      <Modified>2016-01-04T19:23:49.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\wallpaperWp_01.png">
+      <PackagePath>Images\wallpaperWp_01.png</PackagePath>
+      <Modified>2016-01-04T19:23:49.696</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\Images\web_48.png">
+      <PackagePath>Images\web_48.png</PackagePath>
+      <Modified>2016-01-04T19:23:49.700</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\PomodoroAssistant.dll">
+      <PackagePath>PomodoroAssistant.dll</PackagePath>
+      <Modified>2016-03-10T20:21:49.445</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\PomodoroAssistant.exe">
+      <PackagePath>PomodoroAssistant.exe</PackagePath>
+      <Modified>2016-03-10T20:21:49.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-03-10T20:20:15.433</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\_Resources\0.rsrc">
+      <PackagePath>_Resources\0.rsrc</PackagePath>
+      <Modified>2016-03-10T20:21:20.755</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\bin\x86\Release\ilc\_Resources\index.txt">
+      <PackagePath>_Resources\index.txt</PackagePath>
+      <Modified>2016-03-10T20:21:20.755</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\arm\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\x64\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\">
+      <Name>Microsoft.NET.Native.Framework.1.2</Name>
+      <Version>1.2.23231.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.2, MinVersion = 1.2.23231.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Framework.1.2\1.2\.\x86\ret\Native\Microsoft.NET.Native.Framework.1.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\ARM\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x64\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\">
+      <Name>Microsoft.NET.Native.Runtime.1.1</Name>
+      <Version>1.1.23406.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.1, MinVersion = 1.1.23406.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.NET.Native.Runtime.1.1\1.1\.\AppX\x86\Microsoft.NET.Native.Runtime.1.1.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.22929.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.22929.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

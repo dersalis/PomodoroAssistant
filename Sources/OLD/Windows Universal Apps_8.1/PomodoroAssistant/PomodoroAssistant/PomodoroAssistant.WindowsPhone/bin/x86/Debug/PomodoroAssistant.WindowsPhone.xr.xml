@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots xmlns="clr-namespace:Microsoft.Xaml.Tools.XamlCompiler.RootLog;assembly=Microsoft.Windows.UI.Xaml.81.Build.Tasks">
+  <Roots.Interfaces>
+    <RootInterface FullName="Windows.UI.Xaml.Data.IValueConverter" />
+  </Roots.Interfaces>
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application">
+      <RootProperty Name="Resources" />
+    </RootType>
+    <RootType FullName="PomodoroAssistant.ViewModels.PomodoroViewModel" />
+    <RootType FullName="PomodoroAssistant.Converters.StartButtonTimerStateToBoolConverter" />
+    <RootType FullName="PomodoroAssistant.Converters.PauseButtonTimerStateToBoolConverter" />
+    <RootType FullName="PomodoroAssistant.Converters.StopButtonTimerStateToBoolConverter" />
+    <RootType FullName="PomodoroAssistant.Converters.CurrentTimeToMinutesConverter" />
+    <RootType FullName="PomodoroAssistant.Converters.CurrentTimeToSecondsConverter" />
+    <RootType FullName="PomodoroAssistant.Converters.CurrentPomodoroStateToColor" />
+    <RootType FullName="PomodoroAssistant.Converters.CurrentTimerStateToVisibilityConverter" />
+    <RootType FullName="PomodoroAssistant.Converters.CurrentTimerStateToBoolConverter" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.ResourceDictionary">
+      <RootProperty Name="Source" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid" />
+    <RootType FullName="PomodoroAssistant.MainPage" />
+  </Roots.RootTypes>
+</Roots>

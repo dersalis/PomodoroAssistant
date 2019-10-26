@@ -1,0 +1,145 @@
+﻿<Page
+    x:Class="PomodoroAssistantPlus.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PomodoroAssistantPlus"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    
+    xmlns:viewmodels="using:PomodoroAssistantPlus.ViewModel"
+    
+    mc:Ignorable="d" RequestedTheme="Dark">
+
+    <Page.Resources>
+        <ResourceDictionary Source="Styles/AppStyle.xaml"/>
+    </Page.Resources>
+    
+    
+    <Page.Background>
+        <ImageBrush ImageSource="Images/wallpaperWp_12.png"/>
+    </Page.Background>
+
+
+    <Page.BottomAppBar>
+        <CommandBar Background="{StaticResource AppBarColor}" ClosedDisplayMode="Compact" Opacity="0.95">
+            <AppBarButton x:Uid="abbAddTaskCategory" Icon="Add" Label="_dodaj">
+                <AppBarButton.Flyout>
+                    <MenuFlyout>
+                        <MenuFlyoutItem x:ConnectionId='1' x:Name="mfiAddTask" x:Uid="mfiAddTask" Text="_zadanie"                      />
+                        <MenuFlyoutItem x:ConnectionId='2' x:Name="mfiAddCategory" x:Uid="mfiAddCategory" Text="_kategorie"                          />
+                    </MenuFlyout>
+                </AppBarButton.Flyout>
+            </AppBarButton>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:ConnectionId='3' x:Name="abbSettings" x:Uid="abbSettings" Label="_ustawienia"                                   />
+                <AppBarButton x:ConnectionId='4' x:Name="abbAbout" x:Uid="abbAbout" Label="_o programie"                          />
+                <AppBarButton x:ConnectionId='5' x:Name="abbReviewApp" x:Uid="abbReviewApp" Label="_oceń program"                                 />
+            </CommandBar.SecondaryCommands>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+
+    <!--<Page.DataContext>
+        <viewmodels:TasksViewModel/>
+    </Page.DataContext>-->
+
+
+    <Grid>
+        <Hub x:ConnectionId='6' x:Name="hubPomodoro"                                                          
+                                                                >
+            <Hub.Header>
+                <StackPanel Orientation="Horizontal" Margin="0 40 0 0">
+                    <Image Style="{StaticResource ApplicationImageStyle}"/>
+                    <TextBlock Style="{StaticResource ApplicationTitleStyle}"/>
+                    <TextBlock Style="{StaticResource ApplicationTitlePlusStyle}"/>
+                </StackPanel>
+            </Hub.Header>
+
+            <!-- ZADANIA -->
+            <HubSection x:Name="hubActiveTasks" Tag="0" IsHeaderInteractive="True">
+                <HubSection.Header>
+                    <Button BorderBrush="{x:Null}" BorderThickness="0" Background="{x:Null}" ManipulationMode="ScaleInertia" Style="{StaticResource HubSectionHeaderButton}" Margin="-6 0 0 0">
+                        <Button.Flyout>
+                            <MenuFlyout>
+                                <MenuFlyoutItem x:ConnectionId='16' x:Name="mfiActiveTasksByName" x:Uid="mfiActiveTasksByName" Text="_wg nazwy"                                   />
+                                <MenuFlyoutItem x:ConnectionId='17' x:Name="mfiActiveTasksByAddDate" x:Uid="mfiActiveTasksByAddDate" Text="_wg daty rozpoczęcia"                                      />
+                                <MenuFlyoutItem x:ConnectionId='18' x:Name="mfiActiveTasksByEditDate" x:Uid="mfiActiveTasksByEditDate" Text="_wg daty edycji"                                       />
+                                <MenuFlyoutItem x:ConnectionId='19' x:Name="mfiActiveTasksByTime" x:Uid="mfiActiveTasksByTime" Text="_wg czasu"                                   />
+                                <MenuFlyoutItem x:ConnectionId='20' x:Name="mfiActiveTasksByCategory" x:Uid="mfiActiveTasksByCategory" Text="_wg kategorii"                                       />
+                            </MenuFlyout>
+                        </Button.Flyout>
+                        
+                        <StackPanel Orientation="Vertical">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock x:Uid="txtTitleTasks" Text="_ZADANIA" Style="{StaticResource HeaderStyle}"/>
+                                <TextBlock Text="▼" FontSize="16" Opacity="0.4" VerticalAlignment="Bottom" Margin="5 0 0 2 "/>
+                            </StackPanel>
+                            <TextBlock Text="{Binding ActiveTaskViewName}" Style="{StaticResource SortTypeStyle}"/>
+                        </StackPanel>
+                    </Button>
+                </HubSection.Header>
+                <DataTemplate>
+                    <ListView x:ConnectionId='21' x:Name="lstActiveTasks" ItemsSource="{Binding ActiveTaskList}" ItemTemplate="{StaticResource ActiveTaskDataTemplate}"
+                                                                                 ScrollViewer.VerticalScrollBarVisibility="Hidden" Margin="0 -20 0 0"/>
+                </DataTemplate>
+            </HubSection>
+
+            <!-- ZAKOŃCZONE ZADANIA -->
+            <HubSection x:Name="hubCompletedTasks" Tag="1" IsHeaderInteractive="True">
+                <HubSection.Header>
+                    <Button BorderBrush="{x:Null}" BorderThickness="0" Background="{x:Null}" ManipulationMode="ScaleInertia" Style="{StaticResource HubSectionHeaderButton}" Margin="-6 0 0 0">
+                        <Button.Flyout>
+                            <MenuFlyout>
+                                <MenuFlyoutItem x:ConnectionId='11' x:Name="mfiCompletedTasksByName" x:Uid="mfiCompletedTasksByName" Text="_wg nazwy"                                      />
+                                <MenuFlyoutItem x:ConnectionId='12' x:Name="mfiCompletedTasksByAddDate" x:Uid="mfiCompletedTasksByAddDate" Text="_wg daty rozpoczęcia"                                         />
+                                <MenuFlyoutItem x:ConnectionId='13' x:Name="mfiCompletedTasksByEditDate" x:Uid="mfiCompletedTasksByEditDate" Text="_wg daty zakończenia"                                          />
+                                <MenuFlyoutItem x:ConnectionId='14'  x:Name="mfiCompletedTasksByTime" x:Uid="mfiCompletedTasksByTime" Text="_wg czasu"                                      />
+                                <MenuFlyoutItem x:ConnectionId='15'  x:Name="mfiCompletedTasksByCategory" x:Uid="mfiCompletedTasksByCategory" Text="_wg kategorii"                                          />
+                            </MenuFlyout>
+                        </Button.Flyout>
+                        
+                        <StackPanel Orientation="Vertical">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock x:Uid="txtTitleCompleted" Text="_ZAKOŃCZONE" Style="{StaticResource HeaderStyle}"/>
+                                <TextBlock Text="▼" FontSize="16" Opacity="0.4" VerticalAlignment="Bottom" Margin="5 0 0 2 "/>
+                            </StackPanel>
+                            <TextBlock Text="{Binding CompletedTaskViewName}" Style="{StaticResource SortTypeStyle}"/>
+                        </StackPanel>
+                    </Button>
+                </HubSection.Header>
+                <DataTemplate>
+                    <ListView ItemsSource="{Binding CompletedTaskList}" ItemTemplate="{StaticResource CompletedTaskDataTemplate}" ScrollViewer.VerticalScrollBarVisibility="Hidden" Margin="0 -20 0 0"/>
+                </DataTemplate>
+            </HubSection>
+
+            <!-- KATEGORIE -->
+            <HubSection x:Name="hubCategories" Tag="2">
+                <HubSection.Header>
+                    <Button BorderBrush="{x:Null}" BorderThickness="0" Background="{x:Null}" ManipulationMode="ScaleInertia" Style="{StaticResource HubSectionHeaderButton}" Margin="-6 0 0 0">
+                        <Button.Flyout>
+                            <MenuFlyout>
+                                <MenuFlyoutItem x:ConnectionId='7' x:Name="mfiCategoriesByName" x:Uid="mfiCategoriesByName" Text="_wg nazwy"                                  />
+                                <MenuFlyoutItem x:ConnectionId='8' x:Name="mfiCategoriesByTasksCount" x:Uid="mfiCategoriesByTasksCount" Text="_wg liczby zadań"                                        />
+                                <MenuFlyoutItem x:ConnectionId='9' x:Name="mfiCategoriesByCyclesCount" x:Uid="mfiCategoriesByCyclesCount" Text="_wg liczby cykli"                                         />
+                                <MenuFlyoutItem x:ConnectionId='10' x:Name="mfiCategoriesByTime" x:Uid="mfiCategoriesByTime" Text="_wg czasu"                                  />
+                            </MenuFlyout>
+                        </Button.Flyout>
+                        
+                        <StackPanel Orientation="Vertical">
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock x:Uid="txtTitleCategories" Text="_KATEGORIE" Style="{StaticResource HeaderStyle}"/>
+                                <TextBlock Text="▼" FontSize="16" Opacity="0.4" VerticalAlignment="Bottom" Margin="5 0 0 2 "/>
+                            </StackPanel>
+                            <TextBlock Text="{Binding CategoryViewName}" Style="{StaticResource SortTypeStyle}"/>
+                        </StackPanel>
+                    </Button>
+                </HubSection.Header>
+                <DataTemplate>
+                    <ListView ItemsSource="{Binding CategoryList}" ItemTemplate="{StaticResource CategoryDataTemplate}" ScrollViewer.VerticalScrollBarVisibility="Hidden" Margin="0 -20 0 0"/>
+                </DataTemplate>
+            </HubSection>
+
+        </Hub>
+    </Grid>
+</Page>
+

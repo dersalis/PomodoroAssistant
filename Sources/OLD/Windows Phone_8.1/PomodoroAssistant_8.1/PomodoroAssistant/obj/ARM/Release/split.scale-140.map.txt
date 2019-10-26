@@ -1,0 +1,12 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-140"
+"ResourceDimensions"		"scale-140"
+
+[Files]
+"D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\ARM\Release\split.scale-140.pri"			"resources.pri"
+"D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\ARM\Release\PackageLayout\Assets\WideLogo.scale-140.png"			"Assets\WideLogo.scale-140.png"
+"D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\ARM\Release\PackageLayout\Assets\StoreLogo.scale-140.png"			"Assets\StoreLogo.scale-140.png"
+"D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\ARM\Release\PackageLayout\Assets\Square71x71Logo.scale-140.png"			"Assets\Square71x71Logo.scale-140.png"
+"D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\ARM\Release\PackageLayout\Assets\SplashScreen.scale-140.png"			"Assets\SplashScreen.scale-140.png"
+"D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\ARM\Release\PackageLayout\Assets\SmallLogo.scale-140.png"			"Assets\SmallLogo.scale-140.png"
+"D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\ARM\Release\PackageLayout\Assets\Logo.scale-140.png"			"Assets\Logo.scale-140.png"

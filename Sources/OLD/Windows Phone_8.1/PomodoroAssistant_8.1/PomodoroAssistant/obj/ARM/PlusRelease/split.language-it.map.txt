@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-it"
+"ResourceDimensions"		"language-it-it"
+
+[Files]
+"D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\obj\ARM\PlusRelease\split.language-it.pri"			"resources.pri"

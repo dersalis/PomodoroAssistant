@@ -1,0 +1,124 @@
+﻿<Page
+    x:Class="PomodoroAssistant.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PomodoroAssistant"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" RequestedTheme="Dark">
+
+    
+    <Page.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="../Styles/SplitViewStyles.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Page.Resources>
+    
+    
+    <Grid Background="#FF191919">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        
+        <!-- Nagłówek -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="0 10 0 10" >
+            <Image Width="16" Height="16" Source="Images/icon_48.png" Margin="12 0 0 5"/>
+            <TextBlock x:Uid="locAppName" Text="Pomodoro Assistant" FontSize="16" Margin="5 0 0 4"/>
+        </StackPanel>
+
+        <!-- Panel -->
+        <SplitView x:ConnectionId='1' Grid.Row="1" x:Name="ShellSplitView" PaneBackground="{x:Null}">
+            <!-- Panel lewy -->
+            <SplitView.Pane>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+                    <StackPanel x:ConnectionId='2' Grid.Row="1" x:Name="RadioButtonContainer" >
+
+                        <!-- Zadania -->
+                        <RadioButton x:ConnectionId='3' x:Name="btnTasks" Content="Tasks" ToolTipService.ToolTip="Tasks" ToolTipService.Placement="Right" GroupName="Nav" 
+                                     Style="{StaticResource SplitViewRadioButtonStyle}" Command="{Binding TasksMenuCommand}">
+                            <RadioButton.Tag>
+                                <TextBlock Text=""  Style="{StaticResource SplitViewTextBlockStyle}"/>
+                            </RadioButton.Tag>
+                        </RadioButton>
+
+                        <!-- Timer -->
+                        <RadioButton x:ConnectionId='4' x:Name="btnTimer" Content="Timer" ToolTipService.ToolTip="Timer" ToolTipService.Placement="Right" GroupName="Nav" 
+                                     Style="{StaticResource SplitViewRadioButtonStyle}" Command="{Binding TimerMenuCommand}">
+                            <RadioButton.Tag>
+                                <TextBlock Text=""  Style="{StaticResource SplitViewTextBlockStyle}"/>
+                            </RadioButton.Tag>
+                        </RadioButton>
+
+                        <!-- Statystyki -->
+                        <RadioButton x:ConnectionId='5' x:Name="btnStatistics" Content="Statistics" ToolTipService.ToolTip="Statistics" ToolTipService.Placement="Right" GroupName="Nav" 
+                                     Style="{StaticResource SplitViewRadioButtonStyle}" Command="{Binding StatisticsMenuCommand}">
+                            <RadioButton.Tag>
+                                <TextBlock Text=""  Style="{StaticResource SplitViewTextBlockStyle}"/>
+                            </RadioButton.Tag>
+                        </RadioButton>
+
+                        <Rectangle Fill="White" Height="1" Width="40" Opacity="0.1" HorizontalAlignment="Left" Margin="5 1"/>
+
+                        <!-- Ustawienia -->
+                        <RadioButton x:ConnectionId='6' x:Name="btnSettings" Content="Settings" ToolTipService.ToolTip="Settings" ToolTipService.Placement="Right" GroupName="Nav" 
+                                     Style="{StaticResource SplitViewRadioButtonStyle}" Command="{Binding SettingsMenuCommand}">
+                            <RadioButton.Tag>
+                                <TextBlock Text=""  Style="{StaticResource SplitViewTextBlockStyle}"/>
+                            </RadioButton.Tag>
+                        </RadioButton>
+
+                        <!-- About -->
+                        <RadioButton x:ConnectionId='7' x:Name="btnAbout" Content="About" ToolTipService.ToolTip="About" ToolTipService.Placement="Right" GroupName="Nav" 
+                                     Style="{StaticResource SplitViewRadioButtonStyle}" Command="{Binding AboutMenuCommand}">
+                            <RadioButton.Tag>
+                                <TextBlock Text=""  Style="{StaticResource SplitViewTextBlockStyle}"/>
+                            </RadioButton.Tag>
+                        </RadioButton>
+
+                        <!-- Kup - Ukrywane po wykupieniu PRO -->
+                        <StackPanel>
+                            <Rectangle Fill="White" Height="1" Width="40" Opacity="0.1" HorizontalAlignment="Left" Margin="5 1"/>
+                            <RadioButton x:ConnectionId='8' x:Name="btnBuy" Content="Buy" ToolTipService.ToolTip="Buy Pomodoro Assistant Pro" ToolTipService.Placement="Right" GroupName="Nav" 
+                                         Style="{StaticResource SplitViewRadioButtonStyle}" Command="{Binding BuyMenuCommand}" Background="#FFC98625">
+                                <RadioButton.Tag>
+                                    <TextBlock Text=""  Style="{StaticResource SplitViewTextBlockStyle}"/>
+                                </RadioButton.Tag>
+                            </RadioButton>
+                        </StackPanel>
+                    </StackPanel>
+                </Grid>
+            </SplitView.Pane>
+            
+            <!-- Panel prawy -->
+            <SplitView.Content>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    
+                    <!-- Ramka -->
+                    <Frame x:ConnectionId='9' Grid.Row="0" x:Name="GeneralFrame"/>
+
+                    <!-- Reklama -->
+                    <StackPanel Grid.Row="1">
+                        <!--<Rectangle Width="50" Height="50" Fill="#19FF0000"/>
+                        <Rectangle Width="50" Height="50" Fill="#33FF0000"/>
+                        <Rectangle Width="50" Height="50" Fill="#7FFF0000"/>-->
+                    </StackPanel>
+                </Grid>
+            </SplitView.Content>
+        </SplitView>
+
+    </Grid>
+    
+</Page>
+

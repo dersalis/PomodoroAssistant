@@ -1,0 +1,34 @@
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\bin\Release\Atrx.Mobile.Windows.Pomodoro.dll
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\bin\Release\Atrx.Mobile.Windows.Pomodoro.pdb
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\bin\Release\Atrx.Mobile.Windows.Pomodoro.pri
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\Atrx.Mobile.Windows.Pomodoro.dll
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\Atrx.Mobile.Windows.Pomodoro.pdb
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\priconfig.xml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\priconfig.xml.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\layout.resfiles
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\layout.resfiles.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\resources.resfiles
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\resources.resfiles.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\pri.resfiles
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\pri.resfiles.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\qualifiers.txt
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\qualifiers.txt.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\MultipleQualifiersPerDimensionFound.txt
+D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\PomodoroWindowsLibrary.csprojResolveAssemblyReference.cache
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\bin\Release\Atrx.Mobile.Windows.Pomodoro.dll
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\bin\Release\Atrx.Mobile.Windows.Pomodoro.pdb
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\bin\Release\Atrx.Mobile.Windows.Pomodoro.pri
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\PomodoroWindowsLibrary.csprojResolveAssemblyReference.cache
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\Atrx.Mobile.Windows.Pomodoro.dll
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\Atrx.Mobile.Windows.Pomodoro.pdb
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\priconfig.xml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\priconfig.xml.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\layout.resfiles
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\layout.resfiles.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\resources.resfiles
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\resources.resfiles.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\pri.resfiles
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\pri.resfiles.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\qualifiers.txt
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\qualifiers.txt.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\obj\Release\MultipleQualifiersPerDimensionFound.txt

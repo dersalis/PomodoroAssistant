@@ -1,0 +1,4 @@
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 4 - Windosw 10\PomodoroAssistant_4.csproj;x86
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsData\PomodoroWindowsData.csproj;x86
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\PomodoroWindowsLibrary.csproj;neutral
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\PomodoroWindowsRepository.csproj;x86

@@ -1,0 +1,8 @@
+/out:"D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroAssistant\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroAssistant\obj\x86\Release\ilc\intermediate\\"
+/ref:"D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroAssistant\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\\"
+/ref:"D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroAssistant\obj\x86\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\MSBuild\Microsoft\.NetNative\x86\ilc\lib\Private\\"
+/ref:"D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroAssistant\obj\x86\Release\ilc\in\\"
+/ref:"D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroAssistant\obj\x86\Release\ilc\in\WinMetadata\\"
+/ca:System.Private.CoreLib

@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ko"
+"ResourceDimensions"		"language-ko-kr"
+
+[Files]
+"D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 3 - Windows 8.1\obj\ARM\Release\split.language-ko.pri"			"resources.pri"

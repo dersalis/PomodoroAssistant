@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roots >
+  <Roots.Interfaces>
+    <RootInterface FullName="Windows.UI.Xaml.Data.IValueConverter" />
+  </Roots.Interfaces>
+  <Roots.PropertyPathNames>
+    <RootPropertyPathName Name="TotalTime" />
+    <RootPropertyPathName Name="CycleCount" />
+    <RootPropertyPathName Name="TaskCount" />
+    <RootPropertyPathName Name="Name" />
+    <RootPropertyPathName Name="Color" />
+    <RootPropertyPathName Name="DeleteDate" />
+    <RootPropertyPathName Name="AddDate" />
+    <RootPropertyPathName Name="Note" />
+    <RootPropertyPathName Name="CategoryColor" />
+    <RootPropertyPathName Name="LastEditionDate" />
+    <RootPropertyPathName Name="CategoryList" />
+    <RootPropertyPathName Name="CompletedTaskList" />
+    <RootPropertyPathName Name="ActiveTaskList" />
+  </Roots.PropertyPathNames>
+  <Roots.RootTypes>
+    <RootType FullName="Windows.UI.Xaml.Application" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Background" />
+      <RootProperty Name="RequestedTheme" />
+      <RootProperty Name="Resources" />
+      <RootProperty Name="DataContext" />
+      <RootProperty Name="Content" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.ThemeResourceExtension" />
+    <RootType FullName="PomodoroAssistantPlus.ValueConverters.DateToStringConverter" />
+    <RootType FullName="PomodoroAssistantPlus.ValueConverters.TimeSpanToStringConverter" />
+    <RootType FullName="Windows.UI.Xaml.DataTemplate">
+      <RootProperty Name="Template" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.StackPanel">
+      <RootProperty Name="Orientation" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="Margin" />
+      <RootEvent Name="Holding" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Grid">
+      <RootProperty Name="ColumnDefinitions" />
+      <RootProperty Name="Children" />
+      <RootProperty Name="Margin" />
+      <RootMethod Name="GetColumn" />
+      <RootMethod Name="SetColumn" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Shapes.Rectangle">
+      <RootProperty Name="Fill" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ColumnDefinition">
+      <RootProperty Name="Width" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
+      <RootProperty Name="Text" />
+      <RootProperty Name="FontSize" />
+      <RootProperty Name="Foreground" />
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="TextTrimming" />
+      <RootProperty Name="Margin" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Data.Binding">
+      <RootProperty Name="Converter" />
+    </RootType>
+    <RootType FullName="Microsoft.Xaml.Tools.DirectUI.ProxyTypes.StaticResourceExtension" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Image">
+      <RootProperty Name="Source" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Opacity" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="Height" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Primitives.FlyoutBase">
+      <RootMethod Name="GetAttachedFlyout" />
+      <RootMethod Name="SetAttachedFlyout" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.MenuFlyout">
+      <RootProperty Name="Items" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.MenuFlyoutItem">
+      <RootProperty Name="Text" />
+    </RootType>
+    <RootType FullName="PomodoroAssistantPlus.ViewModel.TasksViewModel" />
+    <RootType FullName="Windows.UI.Xaml.Controls.Hub">
+      <RootProperty Name="Header" />
+      <RootProperty Name="Sections" />
+      <RootEvent Name="SectionsInViewChanged" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.HubSection">
+      <RootProperty Name="Tag" />
+      <RootProperty Name="Header" />
+      <RootProperty Name="ContentTemplate" />
+    </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.ListView">
+      <RootProperty Name="ItemsSource" />
+      <RootProperty Name="ItemTemplate" />
+      <RootEvent Name="SelectionChanged" />
+    </RootType>
+    <RootType FullName="PomodoroAssistantPlus.MainPage" />
+    <RootType FullName="PomodoroAssistantPlus.Pages.AboutPage" />
+    <RootType FullName="PomodoroAssistantPlus.Pages.AddCategoryPage" />
+    <RootType FullName="PomodoroAssistantPlus.Pages.AddTaskPage" />
+    <RootType FullName="PomodoroAssistantPlus.Pages.PomodoroPage" />
+    <RootType FullName="PomodoroAssistantPlus.Pages.SettingsPage" />
+  </Roots.RootTypes>
+</Roots>

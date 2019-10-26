@@ -1,0 +1,4 @@
+"/t:Atrx.Mobile.Windows.Pomodoro.Repository.Models.Settings,Atrx.Mobile.Windows.Pomodoro.Repository,xml"
+"/t:System.Collections.Generic.List`1[[Atrx.Mobile.Windows.Pomodoro.Repository.Models.Cycle,Atrx.Mobile.Windows.Pomodoro.Repository]],mscorlib,xml"
+"/t:Atrx.Mobile.Windows.Pomodoro.Repository.Models.CurrentState,Atrx.Mobile.Windows.Pomodoro.Repository,xml"
+"/t:PomodoroWindowsData.Models.Settings,PomodoroWindowsData,xml"

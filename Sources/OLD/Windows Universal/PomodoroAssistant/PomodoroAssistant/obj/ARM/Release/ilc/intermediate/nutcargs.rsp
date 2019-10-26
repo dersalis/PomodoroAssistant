@@ -1,0 +1,9 @@
+/ignoreAccessChecks
+/metadataFile "D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroAssistant\obj\ARM\Release\ilc\intermediate\ILTransformed\PomodoroAssistant.metadata"
+/gvmAssemblyName "System.Private.CoreLib"
+/o
+/sharedGenerics
+/ilmergeinfo "D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroAssistant\obj\ARM\Release\ilc\intermediate\ILTransformed\PomodoroAssistant.csv"
+/sharedGenericsMode StandardHeuristics
+/in "D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroAssistant\obj\ARM\Release\ilc\intermediate\ILTransformed\PomodoroAssistant.ilexe"
+/out "D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Universal\PomodoroAssistant\PomodoroAssistant\obj\ARM\Release\ilc\intermediate\MDIL\PomodoroAssistant.mdilexe"

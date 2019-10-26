@@ -1,0 +1,1 @@
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistant\PomodoroAssistant.Windows\PomodoroAssistant.Windows.csproj;neutral

@@ -1,0 +1,16 @@
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\bin\ARM\Debug\Atrx.Mobile.Windows.Pomodoro.Repository.dll
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\bin\ARM\Debug\Atrx.Mobile.Windows.Pomodoro.Repository.pdb
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\bin\ARM\Debug\Atrx.Mobile.Windows.Pomodoro.Repository.pri
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\obj\ARM\Debug\Atrx.Mobile.Windows.Pomodoro.Repository.dll
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\obj\ARM\Debug\Atrx.Mobile.Windows.Pomodoro.Repository.pdb
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\obj\ARM\Debug\priconfig.xml
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\obj\ARM\Debug\priconfig.xml.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\obj\ARM\Debug\layout.resfiles
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\obj\ARM\Debug\layout.resfiles.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\obj\ARM\Debug\resources.resfiles
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\obj\ARM\Debug\resources.resfiles.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\obj\ARM\Debug\pri.resfiles
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\obj\ARM\Debug\pri.resfiles.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\obj\ARM\Debug\qualifiers.txt
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\obj\ARM\Debug\qualifiers.txt.intermediate
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt

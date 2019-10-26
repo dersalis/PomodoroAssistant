@@ -1,0 +1,3 @@
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroAssistant 3 - Windows 8.1\PomodoroAssistant_3.csproj;arm
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsLibrary\PomodoroWindowsLibrary.csproj;neutral
+D:\MOBILE PROJECTS\Pomodoro Assistant\Windows\Sources\PomodoroAssistant\PomodoroWindowsRepository\PomodoroWindowsRepository.csproj;arm

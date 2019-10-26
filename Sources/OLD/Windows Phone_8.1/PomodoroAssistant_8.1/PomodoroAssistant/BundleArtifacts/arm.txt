@@ -1,0 +1,6 @@
+MainPackage=D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\ARM\Release\PomodoroAssistant_8.1_3.0.1.2_ARM.appx
+SymbolPackage=D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\AppPackages\PomodoroAssistant_8.1_3.0.1.2_Test\PomodoroAssistant_8.1_3.0.1.2_ARM.appxsym
+ResourcePack=D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\ARM\Release\PomodoroAssistant_8.1_3.0.1.2_language-pl.appx
+ResourcePack=D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\ARM\Release\PomodoroAssistant_8.1_3.0.1.2_scale-100.appx
+ResourcePack=D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\ARM\Release\PomodoroAssistant_8.1_3.0.1.2_scale-140.appx
+ResourcePack=D:\MOBILE PROJECTS\Pomodoro Assistant\Sources_Windows\Windows Phone_8.1\PomodoroAssistant_8.1\PomodoroAssistant\bin\ARM\Release\PomodoroAssistant_8.1_3.0.1.2_scale-200.appx

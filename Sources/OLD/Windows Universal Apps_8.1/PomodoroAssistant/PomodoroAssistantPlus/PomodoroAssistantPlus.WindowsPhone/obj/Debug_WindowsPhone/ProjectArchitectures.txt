@@ -1,0 +1,1 @@
+D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.WindowsPhone\PomodoroAssistantPlus.WindowsPhone.csproj;neutral

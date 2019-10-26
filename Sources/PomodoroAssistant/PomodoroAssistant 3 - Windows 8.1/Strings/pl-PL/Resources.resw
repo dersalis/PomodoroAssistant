@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Description" xml:space="preserve">
+    <value>Pomodoro Assistant</value>
+  </data>
+  <data name="DisplayName" xml:space="preserve">
+    <value>Pomodoro Assistant</value>
+  </data>
+  <data name="locAbout1.Text" xml:space="preserve">
+    <value>pierwsza aplikacja Pomodoro w Windows Store</value>
+  </data>
+  <data name="locAbout2.Text" xml:space="preserve">
+    <value>ponad 100 000 pobrań</value>
+  </data>
+  <data name="locAbout3.Text" xml:space="preserve">
+    <value>pozytywne opinie użytkowników</value>
+  </data>
+  <data name="locAboutAppHeader.Text" xml:space="preserve">
+    <value>Informacje</value>
+  </data>
+  <data name="locAboutPageTitle.Text" xml:space="preserve">
+    <value>O programie</value>
+  </data>
+  <data name="locAppName.Text" xml:space="preserve">
+    <value>Pomodoro Assistant</value>
+  </data>
+  <data name="locAutoContinueHeader.Text" xml:space="preserve">
+    <value>Auto kontynuacja</value>
+  </data>
+  <data name="locContactHeader.Text" xml:space="preserve">
+    <value>Kontakt</value>
+  </data>
+  <data name="locDailyTargetContent.Text" xml:space="preserve">
+    <value>Ustaw cel</value>
+  </data>
+  <data name="locDailyTargetHeader.Text" xml:space="preserve">
+    <value>Dzienny cel</value>
+  </data>
+  <data name="locFallowFacebook.Text" xml:space="preserve">
+    <value>śledź na Facebook'u</value>
+  </data>
+  <data name="locFallowTwitter.Text" xml:space="preserve">
+    <value>zaglądaj na Twitter</value>
+  </data>
+  <data name="locFallowWeb.Text" xml:space="preserve">
+    <value>odwiedź stronę</value>
+  </data>
+  <data name="locLongBreak.Text" xml:space="preserve">
+    <value>Czas długiej przerwy</value>
+  </data>
+  <data name="locLongBreakAfterContent.Text" xml:space="preserve">
+    <value>Tradycyjnie długa przerwa następuje po 4 pomodoro</value>
+  </data>
+  <data name="locLongBreakAfterHeader.Text" xml:space="preserve">
+    <value>Długa przerwa po</value>
+  </data>
+  <data name="locLongBreakContent.Text" xml:space="preserve">
+    <value>Tradycyjnie długa przerwa trwa 15 minut</value>
+  </data>
+  <data name="locMinutes.Text" xml:space="preserve">
+    <value>min.</value>
+  </data>
+  <data name="locMuteHeader.Text" xml:space="preserve">
+    <value>Wyciszenie dźwięków</value>
+  </data>
+  <data name="locRateApp.Text" xml:space="preserve">
+    <value>Jeśli lubisz tą aplikację, poświęć chwilkę aby ją ocenić</value>
+  </data>
+  <data name="locRateHeader.Text" xml:space="preserve">
+    <value>Oceń</value>
+  </data>
+  <data name="locSendEmail.Text" xml:space="preserve">
+    <value>wyślij e-mail</value>
+  </data>
+  <data name="locSettingPageTitle.Text" xml:space="preserve">
+    <value>Ustawienia</value>
+  </data>
+  <data name="locShortBreak.Text" xml:space="preserve">
+    <value>Czas krótkiej przerwy</value>
+  </data>
+  <data name="locShortBreakContent.Text" xml:space="preserve">
+    <value>Tradycyjnie któtka przerwa trwa 5 minut</value>
+  </data>
+  <data name="locThanks1.Text" xml:space="preserve">
+    <value>Dziękuję wszytkim użytkownikom za wsparcie i cenne opinie.</value>
+  </data>
+  <data name="locThanks2.Text" xml:space="preserve">
+    <value>Szczególne podziękowania należą się tłumaczom.</value>
+  </data>
+  <data name="locThanksHeader.Text" xml:space="preserve">
+    <value>Podziękowania</value>
+  </data>
+  <data name="locVersion.Text" xml:space="preserve">
+    <value>wersja</value>
+  </data>
+  <data name="locWorkContent.Text" xml:space="preserve">
+    <value>Tradycyjnie czas pracy (pomodoro) trwa 25 minut</value>
+  </data>
+  <data name="locWorkHeader.Text" xml:space="preserve">
+    <value>Czas pracy</value>
+  </data>
+  <data name="NotyficationLongBreakText" xml:space="preserve">
+    <value>Długa przerwa</value>
+  </data>
+  <data name="NotyficationShortBreakText" xml:space="preserve">
+    <value>Krótka przerwa</value>
+  </data>
+  <data name="NotyficationWorkText" xml:space="preserve">
+    <value>Czas na pracę</value>
+  </data>
+  <data name="ToastNotyficationLongBreak" xml:space="preserve">
+    <value>Nadszedł czas na długą przerwę</value>
+  </data>
+  <data name="ToastNotyficationShortBreak" xml:space="preserve">
+    <value>Nadszedł czas na krótką przerwę</value>
+  </data>
+  <data name="ToastNotyficationWork" xml:space="preserve">
+    <value>Nadszedł czas na pracę</value>
+  </data>
+  <data name="btnAbout.Label" xml:space="preserve">
+    <value>o programie</value>
+  </data>
+  <data name="btnPause.Content" xml:space="preserve">
+    <value>PAUZA</value>
+  </data>
+  <data name="btnSettings.Label" xml:space="preserve">
+    <value>ustawienia</value>
+  </data>
+  <data name="btnStart.Content" xml:space="preserve">
+    <value>START</value>
+  </data>
+  <data name="btnStop.Content" xml:space="preserve">
+    <value>STOP</value>
+  </data>
+  <data name="DailyTargetMessageText" xml:space="preserve">
+    <value>Twój dzienny cel Pomodoro został osiągnięty!</value>
+  </data>
+  <data name="DailyTargetMessageTitle" xml:space="preserve">
+    <value>Gratulacje</value>
+  </data>
+  <data name="SettingMessageText" xml:space="preserve">
+    <value>Jeśli chcesz wprowadzić zmiany w ustawieniach, najpierw zatrzymaj stoper</value>
+  </data>
+  <data name="SettingMessageTitle" xml:space="preserve">
+    <value>Ustawienia</value>
+  </data>
+  <data name="txtDailyTarget.Text" xml:space="preserve">
+    <value>Dzienny cel</value>
+  </data>
+  <data name="txtLongBreakAfter.Text" xml:space="preserve">
+    <value>Długa przerwa po</value>
+  </data>
+  <data name="locOpinions.Text" xml:space="preserve">
+    <value>Zachęcam do dzielenia się opiniami na temat Pomodoro Assistant</value>
+  </data>
+  <data name="AboutMessageText" xml:space="preserve">
+    <value>Jeśli chcesz poczytać O programie, najpierw zatrzymaj stoper</value>
+  </data>
+  <data name="AboutMessageTitle" xml:space="preserve">
+    <value>O programie</value>
+  </data>
+  <data name="btnMoreApps.Label" xml:space="preserve">
+    <value>więcej aplikacji</value>
+  </data>
+  <data name="txtResetDT.Text" xml:space="preserve">
+    <value>wyzeruj Dzienny cel</value>
+  </data>
+  <data name="txtResetLBA.Text" xml:space="preserve">
+    <value>wyzeruj Długa przerwa po</value>
+  </data>
+  <data name="abbFallowFacebook.Label" xml:space="preserve">
+    <value>śledź na Facebook'u</value>
+  </data>
+  <data name="abbFallowTwitter.Label" xml:space="preserve">
+    <value>zaglądaj na Twitter</value>
+  </data>
+  <data name="abbRemoveAd.Label" xml:space="preserve">
+    <value>usuń reklamę</value>
+  </data>
+</root>

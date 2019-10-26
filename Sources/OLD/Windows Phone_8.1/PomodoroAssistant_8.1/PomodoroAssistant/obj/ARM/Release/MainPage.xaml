@@ -1,0 +1,72 @@
+﻿<Page
+    x:Class="PomodoroAssistant.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PomodoroAssistant"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    
+    xmlns:ad="using:AdDuplex.Universal.Controls.WinPhone.XAML"
+    
+    mc:Ignorable="d" RequestedTheme="Dark">
+
+    <!--xmlns:adsMed="using:Microsoft.AdMediator.WindowsPhone81"-->
+    
+    <Page.Background>
+        <ImageBrush ImageSource="Images/wallpaperWp_01.png"/>
+    </Page.Background>
+
+    <Page.BottomAppBar>
+        <CommandBar Background="DarkRed" ClosedDisplayMode="Minimal" Opacity="0.95">
+            <!--<AppBarButton x:Name="btnSettings" x:Uid="btnSettings" Icon="Setting" Label="_settings" Click="btnSettings_Click"/>-->
+            <CommandBar.PrimaryCommands>
+                <AppBarButton x:ConnectionId='1' x:Name="btnSettings" x:Uid="btnSettings" Icon="Setting" Label="_settings"                          />
+            </CommandBar.PrimaryCommands>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:ConnectionId='2' x:Name="btnAbout" x:Uid="btnAbout" Label="_about"                       />
+                <!--<AppBarButton x:Name="btnRemoveAd" Label="_remove ad" Click="btnRemoveAd_Click" IsEnabled="False"/>-->
+                <!--<AppBarButton x:Name="btnMoreApps" x:Uid="btnMoreApps" Label="_more apps" Click="btnMoreApps_Click"/>-->
+            </CommandBar.SecondaryCommands>
+            <!--<AppBarButton x:Name="btnSettings" x:Uid="btnSettings" Icon="Setting" Label="_settings" Click="btnSettings_Click"/>-->
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition  Width="1*"/>
+                <ColumnDefinition Width="auto"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Tytuł -->
+            <StackPanel Grid.Column="0" Orientation="Horizontal" Margin="0 15 0 0">
+                <Image Width="20" Height="20" Source="Images/icon_30.png" Margin="20 0 0 5"/>
+                <TextBlock x:Uid="locAppName" Text="_Pomodoro Assistant" FontSize="20" Margin="5 0 0 0"/>
+            </StackPanel>
+
+        </Grid>
+
+        <Frame x:Name="ViewFrame" Grid.Row="1" RequestedTheme="Dark" Background="{x:Null}"/>
+        
+        <!-- Reklama Microsoft -->
+        <!--<StackPanel x:Name="AdPanel" Grid.Row="2" Margin="0 2 0 0">
+            <adsMed:AdMediatorControl x:Name="AdMediation" Width="320" Height="50"
+                                      Id="9a2df658-92f8-4674-97a0-6c38ca935a83" />
+        </StackPanel>-->
+
+        <!-- Reklama AdDuplex -->
+        <StackPanel x:Name="AdPanel" Grid.Row="2" Margin="0 2 0 0">
+            <ad:AdControl x:Name="adDuplexAd" 
+                AdUnitId="177107" 
+		        AppKey="d2416005-72f0-47b7-8778-e646381dd973"/>
+        </StackPanel>
+
+    </Grid>
+</Page>
+

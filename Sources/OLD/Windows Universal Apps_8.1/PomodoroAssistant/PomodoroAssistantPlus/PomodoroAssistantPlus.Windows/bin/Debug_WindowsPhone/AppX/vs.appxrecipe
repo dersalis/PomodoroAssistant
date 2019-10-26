@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ATRX_LAB</Machine>
+    <WindowsUser>Damian</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug_WindowsPhone|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d663b606-e5e4-40a6-a260-e1cdccb39e46</PackageIdentityName>
+    <IntermediateOutputPath>D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Windows\obj\Debug_WindowsPhone\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>B42D8CC79F6D274608AF70E30D3F19FB229FC003AF079DCF3FDFB9BC7545CE80</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d663b606-e5e4-40a6-a260-e1cdccb39e46_1.0.0.0_neutral__zkjhe9sn2b5qc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d663b606-e5e4-40a6-a260-e1cdccb39e46_zkjhe9sn2b5qc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d663b606-e5e4-40a6-a260-e1cdccb39e46</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Damian</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Windows\bin\Debug_WindowsPhone\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-07-16T19:32:02.786</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Windows\bin\Debug_WindowsPhone\PomodoroAssistantPlus.Windows.exe">
+      <PackagePath>PomodoroAssistantPlus.Windows.exe</PackagePath>
+      <Modified>2015-07-16T19:32:02.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T19:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T19:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T19:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-12T19:06:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Shared\Images\addDate_32.png">
+      <PackagePath>Images\addDate_32.png</PackagePath>
+      <Modified>2014-11-16T11:56:27.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Shared\Images\deleteDate_32.png">
+      <PackagePath>Images\deleteDate_32.png</PackagePath>
+      <Modified>2014-11-16T11:55:14.509</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Shared\Images\editDate_32.png">
+      <PackagePath>Images\editDate_32.png</PackagePath>
+      <Modified>2014-11-16T11:55:47.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Shared\Images\finishDate_32.png">
+      <PackagePath>Images\finishDate_32.png</PackagePath>
+      <Modified>2014-11-23T00:08:52.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Shared\Images\icon_48.png">
+      <PackagePath>Images\icon_48.png</PackagePath>
+      <Modified>2014-06-24T08:39:52.207</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Shared\Images\totalCycles_32.png">
+      <PackagePath>Images\totalCycles_32.png</PackagePath>
+      <Modified>2014-11-23T00:12:46.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Shared\Images\totalTasks_32.png">
+      <PackagePath>Images\totalTasks_32.png</PackagePath>
+      <Modified>2014-11-23T00:14:49.039</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Shared\Images\totalTime_32.png">
+      <PackagePath>Images\totalTime_32.png</PackagePath>
+      <Modified>2014-11-23T00:24:31.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Windows\bin\Debug_WindowsPhone\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-07-16T19:32:01.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Windows\bin\Debug_WindowsPhone\Styles\AppStyles.xbf">
+      <PackagePath>Styles\AppStyles.xbf</PackagePath>
+      <Modified>2015-07-16T19:32:01.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Windows\bin\Debug_WindowsPhone\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-07-16T19:32:01.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Windows\bin\Debug_WindowsPhone\PomodoroAssistantPlus.Windows.xr.xml">
+      <PackagePath>PomodoroAssistantPlus.Windows.xr.xml</PackagePath>
+      <Modified>2014-12-06T20:38:52.323</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\PROJEKTY\APLIKACJE\Pomodoro Assistant\Sources\Windows Universal Apps\PomodoroAssistant\PomodoroAssistantPlus\PomodoroAssistantPlus.Windows\bin\Debug_WindowsPhone\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-07-16T19:32:02.551</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

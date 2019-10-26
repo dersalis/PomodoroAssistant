@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="abbAbout.Label" xml:space="preserve">
+    <value>about</value>
+  </data>
+  <data name="abbAddTaskCategory.Label" xml:space="preserve">
+    <value>add</value>
+  </data>
+  <data name="abbReviewApp.Label" xml:space="preserve">
+    <value>review</value>
+  </data>
+  <data name="abbSettings.Label" xml:space="preserve">
+    <value>settings</value>
+  </data>
+  <data name="ActiveTasksByAddDate" xml:space="preserve">
+    <value>by start date</value>
+  </data>
+  <data name="ActiveTasksByCategory" xml:space="preserve">
+    <value>by category</value>
+  </data>
+  <data name="ActiveTasksByEditDate" xml:space="preserve">
+    <value>by edit date</value>
+  </data>
+  <data name="ActiveTasksByName" xml:space="preserve">
+    <value>by name</value>
+  </data>
+  <data name="ActiveTasksByTime" xml:space="preserve">
+    <value>by time</value>
+  </data>
+  <data name="CancelButton" xml:space="preserve">
+    <value>cancel</value>
+  </data>
+  <data name="CategoriesByCyclesCount" xml:space="preserve">
+    <value>by cycles count</value>
+  </data>
+  <data name="CategoriesByName" xml:space="preserve">
+    <value>by name</value>
+  </data>
+  <data name="CategoriesByTasksCount" xml:space="preserve">
+    <value>by tasks count</value>
+  </data>
+  <data name="CategoriesByTime" xml:space="preserve">
+    <value>by time</value>
+  </data>
+  <data name="CompletedTasksByAddDate" xml:space="preserve">
+    <value>by start date</value>
+  </data>
+  <data name="CompletedTasksByCategory" xml:space="preserve">
+    <value>by category</value>
+  </data>
+  <data name="CompletedTasksByEditDate" xml:space="preserve">
+    <value>by end date</value>
+  </data>
+  <data name="CompletedTasksByName" xml:space="preserve">
+    <value>by name</value>
+  </data>
+  <data name="CompletedTasksByTime" xml:space="preserve">
+    <value>by time</value>
+  </data>
+  <data name="DeleteButton" xml:space="preserve">
+    <value>delete</value>
+  </data>
+  <data name="DeleteCategoryDialogContent" xml:space="preserve">
+    <value>Deleted category cannot be restored</value>
+  </data>
+  <data name="DeleteCategoryDialogTitle" xml:space="preserve">
+    <value>Are you sure you want to delete category?</value>
+  </data>
+  <data name="DeleteTaskDialogContent" xml:space="preserve">
+    <value>Deleted tasks cannot be restored</value>
+  </data>
+  <data name="DeleteTaskDialogTitle" xml:space="preserve">
+    <value>Are you sure you want to delete task?</value>
+  </data>
+  <data name="mfiActiveTaskDelete.Text" xml:space="preserve">
+    <value>delete</value>
+  </data>
+  <data name="mfiActiveTaskEdit.Text" xml:space="preserve">
+    <value>edit</value>
+  </data>
+  <data name="mfiActiveTaskFinish.Text" xml:space="preserve">
+    <value>finish</value>
+  </data>
+  <data name="mfiActiveTasksByAddDate.Text" xml:space="preserve">
+    <value>by start date</value>
+  </data>
+  <data name="mfiActiveTasksByCategory.Text" xml:space="preserve">
+    <value>by category</value>
+  </data>
+  <data name="mfiActiveTasksByEditDate.Text" xml:space="preserve">
+    <value>by edit date</value>
+  </data>
+  <data name="mfiActiveTasksByName.Text" xml:space="preserve">
+    <value>by name</value>
+  </data>
+  <data name="mfiActiveTasksByTime.Text" xml:space="preserve">
+    <value>by time</value>
+  </data>
+  <data name="mfiAddCategory.Text" xml:space="preserve">
+    <value>category</value>
+  </data>
+  <data name="mfiAddTask.Text" xml:space="preserve">
+    <value>task</value>
+  </data>
+  <data name="mfiCategoriesByCyclesCount.Text" xml:space="preserve">
+    <value>by cycles count</value>
+  </data>
+  <data name="mfiCategoriesByName.Text" xml:space="preserve">
+    <value>by name</value>
+  </data>
+  <data name="mfiCategoriesByTasksCount.Text" xml:space="preserve">
+    <value>by tasks count</value>
+  </data>
+  <data name="mfiCategoriesByTime.Text" xml:space="preserve">
+    <value>by time</value>
+  </data>
+  <data name="mfiCategoryDelete.Text" xml:space="preserve">
+    <value>delete</value>
+  </data>
+  <data name="mfiCategoryEdit.Text" xml:space="preserve">
+    <value>edit</value>
+  </data>
+  <data name="mfiCompletedTaskDelete.Text" xml:space="preserve">
+    <value>delete</value>
+  </data>
+  <data name="mfiCompletedTasksByAddDate.Text" xml:space="preserve">
+    <value>by start date</value>
+  </data>
+  <data name="mfiCompletedTasksByCategory.Text" xml:space="preserve">
+    <value>by category</value>
+  </data>
+  <data name="mfiCompletedTasksByEditDate.Text" xml:space="preserve">
+    <value>by end date</value>
+  </data>
+  <data name="mfiCompletedTasksByName.Text" xml:space="preserve">
+    <value>by name</value>
+  </data>
+  <data name="mfiCompletedTasksByTime.Text" xml:space="preserve">
+    <value>by time</value>
+  </data>
+  <data name="mfiCompletedTaskStart.Text" xml:space="preserve">
+    <value>restore</value>
+  </data>
+  <data name="txtTitleCategories.Text" xml:space="preserve">
+    <value>CATEGORIES</value>
+  </data>
+  <data name="txtTitleCompleted.Text" xml:space="preserve">
+    <value>COMPLETED</value>
+  </data>
+  <data name="txtTitleTasks.Text" xml:space="preserve">
+    <value>TASKS</value>
+  </data>
+  <data name="btnContact.Label" xml:space="preserve">
+    <value>contact</value>
+  </data>
+  <data name="btnReviewMe.Label" xml:space="preserve">
+    <value>review</value>
+  </data>
+  <data name="btnStore.Label" xml:space="preserve">
+    <value>store</value>
+  </data>
+  <data name="txtAboutTitle.Text" xml:space="preserve">
+    <value>About</value>
+  </data>
+  <data name="txtAuthor.Text" xml:space="preserve">
+    <value>author</value>
+  </data>
+  <data name="txtThanksContent.Text" xml:space="preserve">
+    <value>I thank all of users for your support and valuable comments.</value>
+  </data>
+  <data name="txtThanksTitle.Text" xml:space="preserve">
+    <value>Thanks</value>
+  </data>
+  <data name="txtTranslactionContent.Text" xml:space="preserve">
+    <value>Special thanks for translations:</value>
+  </data>
+  <data name="txtTranslactionTitle.Text" xml:space="preserve">
+    <value>Translations</value>
+  </data>
+  <data name="txtVersion.Text" xml:space="preserve">
+    <value>version</value>
+  </data>
+  <data name="txtFacebook.Text" xml:space="preserve">
+    <value>follow on facebook</value>
+  </data>
+  <data name="txtTwitter.Text" xml:space="preserve">
+    <value>follow on twitter</value>
+  </data>
+  <data name="txtWebPage.Text" xml:space="preserve">
+    <value>visit pomodoroassistant.com</value>
+  </data>
+  <data name="txtFactorySettingsTitle.Text" xml:space="preserve">
+    <value>Factory settings</value>
+  </data>
+  <data name="txtLongBreakDelayContent.Text" xml:space="preserve">
+    <value>Traditionally long break followed after 4 pomodoro</value>
+  </data>
+  <data name="txtLongBreakDelayTitle.Text" xml:space="preserve">
+    <value>Long break delay</value>
+  </data>
+  <data name="txtLongBreakTimeDurationContent.Text" xml:space="preserve">
+    <value>Traditionally long break time is equal to 15 minutes</value>
+  </data>
+  <data name="txtLongBreakTimeDurationTitle.Text" xml:space="preserve">
+    <value>Long break duration</value>
+  </data>
+  <data name="txtMinutesValue.Text" xml:space="preserve">
+    <value>min</value>
+  </data>
+  <data name="txtPomodoroTimeDurationContent.Text" xml:space="preserve">
+    <value>Traditionally pomodoro time is equal to 25 minutes</value>
+  </data>
+  <data name="txtPomodoroTimeDurationTitle.Text" xml:space="preserve">
+    <value>Pomodoro duration</value>
+  </data>
+  <data name="txtPomodoroTitle.Text" xml:space="preserve">
+    <value>Pomodoro</value>
+  </data>
+  <data name="txtPomodoroValue.Text" xml:space="preserve">
+    <value>pomodoro</value>
+  </data>
+  <data name="txtShortBreakTimeDurationContent.Text" xml:space="preserve">
+    <value>Traditionally short break time is equal to 5 minutes</value>
+  </data>
+  <data name="txtShortBreakTimeDurationTitle.Text" xml:space="preserve">
+    <value>Short break duration</value>
+  </data>
+  <data name="txtAddCategoryName.Text" xml:space="preserve">
+    <value>Category name</value>
+  </data>
+  <data name="txtAddCategoryTitle.Text" xml:space="preserve">
+    <value>Add category</value>
+  </data>
+  <data name="txtCategoryColor.Text" xml:space="preserve">
+    <value>Category color</value>
+  </data>
+  <data name="abbAddCategory" xml:space="preserve">
+    <value>add</value>
+  </data>
+  <data name="txtEditCategoryTitle.Text" xml:space="preserve">
+    <value>Edit category</value>
+  </data>
+</root>

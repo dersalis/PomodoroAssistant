@@ -1,0 +1,66 @@
+﻿<Page
+    x:Class="PomodoroAssistantPlus.Pages.SettingsPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PomodoroAssistantPlus.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Hub>
+            <Hub.Header>
+                <StackPanel Orientation="Horizontal" Margin="0 40 0 0">
+                    <Image Source="ms-appx:///Images/icon_48.png" Height="32"/>
+                    <TextBlock Text="Pomodoro Assistant" FontSize="36" Margin="10 0 0 0"/>
+                    <TextBlock Text="+" FontSize="36" Margin="0 -7 0 0"/>
+                </StackPanel>
+            </Hub.Header>
+            <HubSection>
+                <DataTemplate>
+                    <ScrollViewer ScrollViewer.VerticalScrollBarVisibility="Hidden">
+                        <StackPanel Orientation="Vertical">
+                            <TextBlock x:Uid="txtPomodoroTitle" Text="_Pomodoro" FontSize="24" Margin="0 0 0 10"/>
+                            
+                            <TextBlock x:Uid="txtPomodoroTimeDurationTitle" Text="_Czas trwania pomodoro" FontSize="20" Opacity="0.8" Margin="20 0 0 10"/>
+                            <TextBlock x:Uid="txtPomodoroTimeDurationContent" Text="_Sprecjalne podziękowania:" FontSize="16" TextWrapping="Wrap" Opacity="0.5" Margin="20 -8 0 0"/>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                <TextBlock Text="{Binding Value, ElementName=sldPomodoroTimeDuration}" FontSize="24"  Foreground="#FFF2A13B"/>
+                                <TextBlock x:Uid="txtMinutesValue" Text="_min" FontSize="24" Opacity="0.7" Margin="5 0 0 0"/>
+                            </StackPanel>
+                            <Slider x:Name="sldPomodoroTimeDuration" Value="{Binding PomodoroDuration, Mode=TwoWay}" Margin="20 0 0 0" StepFrequency="5" Maximum="60" Minimum="5"/>
+                            
+                            <TextBlock x:Uid="txtShortBreakTimeDurationTitle" Text="_Czas trwania krótkiej przerwy" FontSize="20" Opacity="0.8" Margin="20 0 0 10"/>
+                            <TextBlock x:Uid="txtShortBreakTimeDurationContent" Text="_Sprecjalne podziękowania:" FontSize="16" TextWrapping="Wrap" Opacity="0.5" Margin="20 -8 0 0"/>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                <TextBlock Text="{Binding Value, ElementName=sldShortBreakTimeDuration}" FontSize="24"  Foreground="#FFF2A13B"/>
+                                <TextBlock x:Uid="txtMinutesValue" Text="_min" FontSize="24" Opacity="0.7" Margin="5 0 0 0"/>
+                            </StackPanel>
+                            <Slider x:Name="sldShortBreakTimeDuration" Value="{Binding ShortBreakDuration, Mode=TwoWay}" Margin="20 0 0 0" StepFrequency="1" Maximum="10" Minimum="1"/>
+
+                            <TextBlock x:Uid="txtLongBreakTimeDurationTitle" Text="_Czas trwania długiej przerwy" FontSize="20" Opacity="0.8" Margin="20 0 0 10"/>
+                            <TextBlock x:Uid="txtLongBreakTimeDurationContent" Text="_Sprecjalne podziękowania:" FontSize="16" TextWrapping="Wrap" Opacity="0.5" Margin="20 -8 0 0"/>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                <TextBlock Text="{Binding Value, ElementName=sldLongBreakTimeDuration}" FontSize="24"  Foreground="#FFF2A13B"/>
+                                <TextBlock x:Uid="txtMinutesValue" Text="_min" FontSize="24" Opacity="0.7" Margin="5 0 0 0"/>
+                            </StackPanel>
+                            <Slider x:Name="sldLongBreakTimeDuration" Value="{Binding LongBreakDuration, Mode=TwoWay}" Margin="20 0 0 0" StepFrequency="5" Maximum="45" Minimum="5"/>
+
+                            <TextBlock x:Uid="txtLongBreakDelayTitle" Text="_Długa przerwa" FontSize="20" Opacity="0.8" Margin="20 0 0 10"/>
+                            <TextBlock x:Uid="txtLongBreakDelayContent" Text="_Sprecjalne podziękowania:" FontSize="16" TextWrapping="Wrap" Opacity="0.5" Margin="20 -8 0 0"/>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                <TextBlock Text="{Binding Value, ElementName=sldLongBreakDelay}" FontSize="24"  Foreground="#FFF2A13B"/>
+                                <TextBlock x:Uid="_txtPomodoroValue" Text="pomodoro" FontSize="24" Opacity="0.7" Margin="5 0 0 0"/>
+                            </StackPanel>
+                            <Slider x:Name="sldLongBreakDelay" Value="{Binding LongBreadDelay, Mode=TwoWay}" Margin="20 0 0 0" StepFrequency="1" Maximum="8" Minimum="3"/>
+
+                            <!--<TextBlock x:Uid="txtFactorySettingsTitle" Text="_Ustawienia fabryczne" FontSize="24" Margin="0 20 0 10"/>
+                            <TextBlock x:Uid="txtTranslactionContent" Text="_Sprecjalne podziękowania:" FontSize="16" TextWrapping="Wrap" Opacity="0.7" Margin="20 0 0 0"/>-->
+                        </StackPanel>
+                    </ScrollViewer>
+                </DataTemplate>
+            </HubSection>
+        </Hub>
+    </Grid>
+</Page>

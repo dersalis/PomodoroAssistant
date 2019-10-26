@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="1456DamianRuta.PomodoroAssistant" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-GB, EN-US</Language>
+			<Scale>240</Scale>
+			<TargetSize>24</TargetSize>
+			<AlternateForm>UNPLATED</AlternateForm>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="AdMediator.config" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/AdMediator.config">
+				<Candidate type="Path">
+					<Value>AdMediator.config</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="App.xbf" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="PomodoroAssistant.xr.xml" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/PomodoroAssistant.xr.xml">
+				<Candidate type="Path">
+					<Value>PomodoroAssistant.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Assets/LockScreenLogo.png"/>
+				<NamedResource name="Logo.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Assets/Square150x150Logo.png"/>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Assets/Wide310x150Logo.png"/>
+				<NamedResource name="WideLogo.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Images">
+				<NamedResource name="check_48.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Images/check_48.png">
+					<Candidate type="Path">
+						<Value>Images\check_48.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="clock_32.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Images/clock_32.png">
+					<Candidate type="Path">
+						<Value>Images\clock_32.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="facebook_48.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Images/facebook_48.png">
+					<Candidate type="Path">
+						<Value>Images\facebook_48.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="icon_128.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Images/icon_128.png">
+					<Candidate type="Path">
+						<Value>Images\icon_128.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="icon_16.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Images/icon_16.png">
+					<Candidate type="Path">
+						<Value>Images\icon_16.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="icon_24.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Images/icon_24.png">
+					<Candidate type="Path">
+						<Value>Images\icon_24.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="icon_30.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Images/icon_30.png">
+					<Candidate type="Path">
+						<Value>Images\icon_30.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="icon_48.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Images/icon_48.png">
+					<Candidate type="Path">
+						<Value>Images\icon_48.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="icon_64.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Images/icon_64.png">
+					<Candidate type="Path">
+						<Value>Images\icon_64.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="mail_48.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Images/mail_48.png">
+					<Candidate type="Path">
+						<Value>Images\mail_48.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="star_48.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Images/star_48.png">
+					<Candidate type="Path">
+						<Value>Images\star_48.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="tomato_32.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Images/tomato_32.png">
+					<Candidate type="Path">
+						<Value>Images\tomato_32.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="twitter_48.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Images/twitter_48.png">
+					<Candidate type="Path">
+						<Value>Images\twitter_48.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="wallpaperWp_01.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Images/wallpaperWp_01.png">
+					<Candidate type="Path">
+						<Value>Images\wallpaperWp_01.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="web_48.png" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Images/web_48.png">
+					<Candidate type="Path">
+						<Value>Images\web_48.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Microsoft.AdMediator.WindowsPhone81">
+				<NamedResource name="Microsoft.AdMediator.WindowsPhone81.xr.xml" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Microsoft.AdMediator.WindowsPhone81/Microsoft.AdMediator.WindowsPhone81.xr.xml">
+					<Candidate type="Path">
+						<Value>Microsoft.AdMediator.WindowsPhone81\Microsoft.AdMediator.WindowsPhone81.xr.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Microsoft.AdMediator.WindowsPhone81/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>Microsoft.AdMediator.WindowsPhone81\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Microsoft.Advertising">
+				<NamedResource name="AdControl.xml" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Microsoft.Advertising/AdControl.xml">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising\AdControl.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AdErrorEventArgs.xml" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Microsoft.Advertising/AdErrorEventArgs.xml">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising\AdErrorEventArgs.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="bootstrap.html" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Microsoft.Advertising/bootstrap.html">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising\bootstrap.html</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="bootstrap.js" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Microsoft.Advertising/bootstrap.js">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising\bootstrap.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ErrorCode.xml" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Microsoft.Advertising/ErrorCode.xml">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising\ErrorCode.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InterstitialAd.xml" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Microsoft.Advertising/InterstitialAd.xml">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising\InterstitialAd.xml</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="ormma.js" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Microsoft.Advertising/ormma.js">
+					<Candidate type="Path">
+						<Value>Microsoft.Advertising\ormma.js</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="Themes">
+					<NamedResource name="Generic.xbf" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Microsoft.Advertising/Themes/Generic.xbf">
+						<Candidate type="Path">
+							<Value>Microsoft.Advertising\Themes\Generic.xbf</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Pages">
+				<NamedResource name="AboutPage.xbf" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Pages/AboutPage.xbf">
+					<Candidate type="Path">
+						<Value>Pages\AboutPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="BuyPage.xbf" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Pages/BuyPage.xbf">
+					<Candidate type="Path">
+						<Value>Pages\BuyPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PomodoroPage.xbf" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Pages/PomodoroPage.xbf">
+					<Candidate type="Path">
+						<Value>Pages\PomodoroPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SettingsPage.xbf" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Pages/SettingsPage.xbf">
+					<Candidate type="Path">
+						<Value>Pages\SettingsPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Styles">
+				<NamedResource name="AboutPageStyle.xbf" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Styles/AboutPageStyle.xbf">
+					<Candidate type="Path">
+						<Value>Styles\AboutPageStyle.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PomodoroStyle.xbf" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Files/Styles/PomodoroStyle.xbf">
+					<Candidate type="Path">
+						<Value>Styles\PomodoroStyle.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Advertising">
+			<ResourceMapSubtree name="ExceptionMessages">
+				<NamedResource name="ApplicationIdAdUnitIdServiceUrlAreRequired" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/ApplicationIdAdUnitIdServiceUrlAreRequired">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>You must specify both an ApplicationID and AdUnitID, or a ServiceURL.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutoRefreshInternalTooLow" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/AutoRefreshInternalTooLow">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Auto refresh internal is set too low, default value will be used instead.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="AutoRefreshStateAlreadySet" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/AutoRefreshStateAlreadySet">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh state has already been set.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenAdControlUninitialized" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/CannotRefreshWhenAdControlUninitialized">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is uninitialised.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenAdIsEngaged" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/CannotRefreshWhenAdIsEngaged">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is engaged.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenNotVisible" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/CannotRefreshWhenNotVisible">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is not visible to the user.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CannotRefreshWhenSuspended" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/CannotRefreshWhenSuspended">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called when AdControl is suspended.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CapabilitiesMissing" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/CapabilitiesMissing">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Required capabilities are missing from manifest (%s): %s.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CouldNotFindProperty" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/CouldNotFindProperty">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Could not find property: %s.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="CountryCodeLengthInvalid" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/CountryCodeLengthInvalid">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Country/Region length must be equal to %d characters</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="DecodingEscapedCharactersFailed" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/DecodingEscapedCharactersFailed">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Decoding escaped characters failed, more output characters than expected.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="HttpRequestFailedWithStatusCode" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/HttpRequestFailedWithStatusCode">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>HTTP request failed with status code: %d.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="HttpResponseContainedNoContent" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/HttpResponseContainedNoContent">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Server response contained no content.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="InvalidRefresh" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/InvalidRefresh">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh cannot be used when auto refresh is enabled.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="KeywordLengthInvalid" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/KeywordLengthInvalid">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Keywords length cannot be more than %d characters</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="PostalCodeLengthInvalid" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/PostalCodeLengthInvalid">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Postal code length cannot be more than %d characters</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshCalledToSoon" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/RefreshCalledToSoon">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh may not be called more than once every %d seconds.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RefreshWhileRequestInProgress" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/RefreshWhileRequestInProgress">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Refresh was triggered but another request is already in progress.</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="RequestDataHasNullDataItem" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/ExceptionMessages/RequestDataHasNullDataItem">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>httpRequestData or its URL is null.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="UIStrings">
+				<NamedResource name="Advertisement" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/UIStrings/Advertisement">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Advertisement</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Advertisement</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LearnMore" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Microsoft.Advertising/UIStrings/LearnMore">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Learn more</Value>
+					</Candidate>
+					<Candidate qualifiers="Language-EN-GB" isDefault="true" type="String">
+						<Value>Learn more</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Resources">
+			<NamedResource name="AboutMessageText" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/AboutMessageText">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>If you want to read About you need to stop the timer</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="AboutMessageTitle" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/AboutMessageTitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>About</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DailyTargetMessageText" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/DailyTargetMessageText">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Your daily target Pomodoro has been achieved!</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DailyTargetMessageTitle" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/DailyTargetMessageTitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Congratulations</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Description" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/Description">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Pomodoro Assistant</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DisplayName" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/DisplayName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Pomodoro Assistant</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NotyficationLongBreakText" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/NotyficationLongBreakText">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Long Break Time</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NotyficationShortBreakText" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/NotyficationShortBreakText">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Short Break Time</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NotyficationWorkText" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/NotyficationWorkText">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Work Time</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SettingMessageText" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/SettingMessageText">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>If you want to make changes to the settings you need to stop the timer</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SettingMessageTitle" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/SettingMessageTitle">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Settings</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ToastNotyficationLongBreak" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/ToastNotyficationLongBreak">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>It's time for a long break</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ToastNotyficationShortBreak" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/ToastNotyficationShortBreak">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>It's time for a short break</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ToastNotyficationWork" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/ToastNotyficationWork">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>It's time for a work</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="btnAbout">
+				<NamedResource name="Label" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/btnAbout/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>about</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="btnMoreApps">
+				<NamedResource name="Label" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/btnMoreApps/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>more apps</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="btnPause">
+				<NamedResource name="Content" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/btnPause/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>PAUSE</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="btnSettings">
+				<NamedResource name="Label" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/btnSettings/Label">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>settings</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="btnStart">
+				<NamedResource name="Content" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/btnStart/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>START</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="btnStop">
+				<NamedResource name="Content" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/btnStop/Content">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>STOP</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locAbout1">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locAbout1/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>first Pomodoro app in Windows Store</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locAbout2">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locAbout2/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>more than 100 000 downloads</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locAbout3">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locAbout3/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>positive feedback from users</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locAboutAppHeader">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locAboutAppHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>About app</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locAboutPageTitle">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locAboutPageTitle/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>About</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locAppName">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locAppName/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Pomodoro Assistant</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locAutoContinueHeader">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locAutoContinueHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Auto continue</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locContactHeader">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locContactHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Contact</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locDailyTargetContent">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locDailyTargetContent/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Set any target</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locDailyTargetHeader">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locDailyTargetHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Daily target</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locFallowFacebook">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locFallowFacebook/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>fallow on Facebook</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locFallowTwitter">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locFallowTwitter/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>fallow on Twitter</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locFallowWeb">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locFallowWeb/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>visit web site</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locLongBreak">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locLongBreak/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Long break duration</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locLongBreakAfterContent">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locLongBreakAfterContent/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Traditionally long break followed after 4 pomodoro</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locLongBreakAfterHeader">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locLongBreakAfterHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Long break after</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locLongBreakContent">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locLongBreakContent/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Traditionally long break duration is equal to 15 minutes</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locMinutes">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locMinutes/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>min.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locMuteHeader">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locMuteHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Mute sound</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locOpinions">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locOpinions/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>I invite to express your opinions about Pomodoro Assistant</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locRateApp">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locRateApp/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>If you love this app please take a moment to rate it.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locRateHeader">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locRateHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Rate and review</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locSendEmail">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locSendEmail/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>send e-mail</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locSettingPageTitle">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locSettingPageTitle/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Settings</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locShortBreak">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locShortBreak/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Short break duration</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locShortBreakContent">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locShortBreakContent/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Traditionally short break duration is equal to 5 minutes</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locThanks1">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locThanks1/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>I thank all of users for your support and valuable comments.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locThanks2">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locThanks2/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Special thanks for translations.</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locThanksHeader">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locThanksHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Thanks</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locVersion">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locVersion/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>version</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locWorkContent">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locWorkContent/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Traditionally work duration (pomodoro) is equal to 25 minutes</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="locWorkHeader">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/locWorkHeader/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Work duration</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="txtDailyTarget">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/txtDailyTarget/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Daily target</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="txtLongBreakAfter">
+				<NamedResource name="Text" uri="ms-resource://1456DamianRuta.PomodoroAssistant/Resources/txtLongBreakAfter/Text">
+					<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+						<Value>Long break after</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

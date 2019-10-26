@@ -1,0 +1,129 @@
+﻿<Page
+    x:Class="PomodoroAssistant.Pages.AboutPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:PomodoroAssistant.Pages"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        <ResourceDictionary Source="/Styles/PomodoroStyle.xaml"/>
+    </Page.Resources>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <!-- Tytuł -->
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="20 0 0 0" >
+            <TextBlock Text=">" FontSize="16" Opacity=".4"/>
+            <TextBlock x:Uid="locAboutPageTitle" Text="_About" FontSize="16" Opacity=".4" Margin="4 0 0 0"/>
+        </StackPanel>
+
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Hidden">
+            <StackPanel Orientation="Vertical" Margin="0 10 0 0">
+                <StackPanel HorizontalAlignment="Center" Margin="0 20 0 0">
+                    <Image Height="90" Source="ms-appx:///Images/icon_128.png" />
+                    <TextBlock Text="Pomodoro Assisatant" FontSize="28" Margin="0 10 0 0"/>
+                </StackPanel>
+                <Grid Width="260">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="1*"/>
+                        <ColumnDefinition Width="auto"/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Grid.Column="0" Orientation="Horizontal">
+                        <TextBlock Text="by" FontSize="12" Opacity="0.4"/>
+                        <Button x:Name="btnMyTwitter" Style="{StaticResource PomodoroButtonStyle}" Click="btnMyTwitter_Click">
+                            <StackPanel Orientation="Vertical">
+                                <TextBlock Text="Damian Ruta" FontSize="16" Opacity="0.8" Margin="5 -4 0 0" FontWeight="Bold"/>
+                                <TextBlock Text="@damianruta" FontSize="12" Opacity="0.8" HorizontalAlignment="Left" Foreground="{StaticResource ColorFontBlueLight}" Margin="6 -4 0 0"/>
+                            </StackPanel>
+                        </Button>
+                    </StackPanel>
+                    <StackPanel Grid.Column="1" Orientation="Horizontal">
+                        <TextBlock x:Uid="locVersion" Text="_version" FontSize="12" Opacity="0.4"/>
+
+                        <!-- WERSJA -->
+                        <TextBlock x:Name="txtAppVersion" Text="2.0.0" FontSize="16" Opacity="0.8" Margin="5 0 0 0"/>
+                    </StackPanel>
+                </Grid>
+
+                <StackPanel Margin="20 20 20 20">
+                    <!-- O aplikacji -->
+                    <TextBlock x:Uid="locAboutAppHeader" Text="_About App" FontSize="16" Opacity="0.4" Margin="0 10 0 0"/>
+                    <Rectangle Height="1" Fill="White" Opacity="0.1" Margin="0 0 0 10"/>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="auto"/>
+                            <ColumnDefinition Width="1*"/>
+                        </Grid.ColumnDefinitions>
+                        <Grid.RowDefinitions>
+                            <RowDefinition />
+                            <RowDefinition />
+                            <RowDefinition />
+                        </Grid.RowDefinitions>
+                        <Image Grid.Column="0" Grid.Row="0" Height="16" Source="ms-appx:///Images/check_48.png" Margin="0 0 0 0"/>
+                        <Image Grid.Column="0" Grid.Row="1" Height="16" Source="ms-appx:///Images/check_48.png" Margin="0 5 0 0"/>
+                        <Image Grid.Column="0" Grid.Row="2" Height="16" Source="ms-appx:///Images/check_48.png" Margin="0 5 0 0"/>
+                        <TextBlock Grid.Column="1" Grid.Row="0" x:Uid="locAbout1" Text="_first Pomodoro app in Windows Store" FontSize="14" TextWrapping="Wrap" VerticalAlignment="Center" Margin="10 0 0 0"/>
+                        <TextBlock Grid.Column="1" Grid.Row="1" x:Uid="locAbout2" Text="_more than 100 000 downloads" FontSize="14" TextWrapping="Wrap" VerticalAlignment="Center" Margin="10 5 0 0"/>
+                        <TextBlock Grid.Column="1" Grid.Row="2" x:Uid="locAbout3" Text="_positive feedback from users" FontSize="14" TextWrapping="Wrap" VerticalAlignment="Center" Margin="10 5 0 0"/>
+                    </Grid>
+
+                    <!-- Kontakt -->
+                    <TextBlock x:Uid="locContactHeader" Text="_Contact" FontSize="16" Opacity="0.4" Margin="0 20 0 0"/>
+                    <Rectangle Height="1" Fill="White" Opacity="0.1" Margin="0 0 0 10"/>
+                    <StackPanel Orientation="Horizontal" Margin="0 0 0 5">
+                        <Image Height="16" Source="ms-appx:///Images/twitter_48.png"/>
+                        <Button x:Name="btnPomodoroTwitter" Style="{StaticResource PomodoroButtonStyle}" Click="btnPomodoroTwitter_Click">
+                            <TextBlock x:Uid="locFallowTwitter" Text="_fallow on Twitter" FontSize="14" Margin="10 0 0 0" Foreground="{StaticResource ColorFontOrange}"/>
+                        </Button>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0 0 0 5">
+                        <Image Height="16" Source="ms-appx:///Images/facebook_48.png"/>
+                        <Button x:Name="btnPomodoroFacebook" Style="{StaticResource PomodoroButtonStyle}" Click="btnPomodoroFacebook_Click">
+                            <TextBlock x:Uid="locFallowFacebook" Text="_fallow on Facebook" FontSize="14" Margin="10 0 0 0" Foreground="{StaticResource ColorFontOrange}"/>
+                        </Button>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0 0 0 5">
+                        <Image Height="16" Source="ms-appx:///Images/mail_48.png"/>
+                        <Button x:Name="btnSendEmail" Style="{StaticResource PomodoroButtonStyle}" Click="btnSendEmail_Click">
+                            <TextBlock x:Uid="locSendEmail" Text="_send e-mail" FontSize="14" Margin="10 0 0 0" Foreground="{StaticResource ColorFontOrange}"/>
+                        </Button>
+                    </StackPanel>
+                    <!--<StackPanel Orientation="Horizontal" Margin="0 0 0 5">
+                        <Image Height="16" Source="ms-appx:///Images/web_48.png"/>
+                        <Button Style="{StaticResource PomodoroButtonStyle}">
+                            <TextBlock x:Uid="locFallowWeb" Text="_visit web site" FontSize="14" Margin="10 0 0 0" Foreground="{StaticResource ColorFontOrange}"/>
+                        </Button>
+                    </StackPanel>-->
+                    <TextBlock x:Uid="locOpinions" Text="_I invite to express your opinions about Pomodoro Assistant"
+                            FontSize="14" TextWrapping="Wrap" Margin="0 10 0 0"/>
+
+                    <!-- Oceń -->
+                    <TextBlock x:Uid="locRateHeader" Text="_Rate and review" FontSize="16" Opacity="0.4" Margin="0 20 0 0"/>
+                    <Rectangle Height="1" Fill="White" Opacity="0.1" Margin="0 0 0 10"/>
+                    <StackPanel Orientation="Horizontal" Margin="0 0 0 5">
+                        <Image Height="16" Source="ms-appx:///Images/star_48.png"/>
+                        <Button x:Name="btnRateApp" Style="{StaticResource PomodoroButtonStyle}" Click="btnRateApp_Click">
+                            <TextBlock x:Uid="locRateApp" Text="_I'd love you to rate our app 5 stars" Margin="10 0 0 0" Foreground="{StaticResource ColorFontOrange}"/>
+                        </Button>
+                    </StackPanel>
+
+
+                    <!-- Podziękowania -->
+                    <TextBlock x:Uid="locThanksHeader" Text="_Thanks" FontSize="16" Opacity="0.4" Margin="0 20 0 0"/>
+                    <Rectangle Height="1" Fill="White" Opacity="0.1" Margin="0 0 0 10"/>
+                    <TextBlock x:Uid="locThanks1" Text="_I thank all of users for your support and valuable comments."
+                            FontSize="14" TextWrapping="Wrap" Margin="0 0 0 0"/>
+                    <TextBlock x:Uid="locThanks2" Text="_Special thanks for translations."
+                            FontSize="14" TextWrapping="Wrap" Margin="0 0 0 0"/>
+                </StackPanel>
+            </StackPanel>
+        </ScrollViewer>
+
+    </Grid>
+</Page>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>bdaef421-371b-4e00-9aa1-f815eb8e90eb</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>PomodoroAssistantPlus</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="$(MSBuildThisFileDirectory)App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="$(MSBuildThisFileDirectory)App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)LocalStorage\CategoryStorage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LocalStorage\FileChecker.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LocalStorage\CycleStorage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LocalStorage\IStorage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LocalStorage\SettingsStorage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)LocalStorage\TaskStorage.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Category.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\CategoryColor.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\CategoryView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\CompletedTaskView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\PomodoroCycle.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\PomodoroSettings.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\Task.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\ActiveTaskView.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pomodoro\CategoriesManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pomodoro\ColorRevert.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pomodoro\TasksManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Pomodoro\TimeManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)TestData\TasksTestData.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ValueConverters\DateToStringConverter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ValueConverters\StringToSolidColorBrushConverter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ValueConverters\TimeSpanToStringConverter.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\AddCategoryViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\SettingsViewModel.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ViewModel\TasksViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)Images\addDate_32.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\deleteDate_32.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\editDate_32.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\finishDate_32.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\icon_48.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\totalCycles_32.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\totalTasks_32.png" />
+    <Content Include="$(MSBuildThisFileDirectory)Images\totalTime_32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="$(MSBuildThisFileDirectory)Files\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PRIResource Include="$(MSBuildThisFileDirectory)Strings\en-US\Resources.resw" />
+  </ItemGroup>
+  <ItemGroup>
+    <Page Include="$(MSBuildThisFileDirectory)Styles\AppStyles.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+</Project>

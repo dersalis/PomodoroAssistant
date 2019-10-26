@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Files><file>\Atrx.Mobile.Windows.Pomodoro.dll</file><file>\Microsoft.AdMediator.Core.dll</file><file>\Microsoft.AdMediator.WindowsPhone81.dll</file><file>\Microsoft.AdMediator.WindowsPhone81.MicrosoftAdvertising.dll</file><file>\Microsoft.Advertising.winmd</file><file>\PomodoroAssistant.exe</file></Files>
